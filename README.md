@@ -1,20 +1,20 @@
 # Coding_Java
 [Organized collection of all my work through my coding class in Java]
   
-Interval = Lab08: 
+interval = Lab08: 
 
-Lab02: Learned how to use number fields when printing out numbers.
+lab02: Learned how to use number fields when printing out numbers.
 
-Lab03:
+lab03:
 
-Lab04:
+lab04Scanner:
 
-Lab05:
+lab05:
 
-Lab06:
+lab06:
 
-Lab07:
+lab07:
 
-Project01:
+project01:
 
-rational = Project01:
+rational = project02:
